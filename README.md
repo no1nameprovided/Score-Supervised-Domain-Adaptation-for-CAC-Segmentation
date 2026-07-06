@@ -1,5 +1,5 @@
-# Score-Supervised-Domain-Adaptation-for-CAC-Segmentation# ASCENT
-
+ASCENT
+# Score-Supervised-Domain-Adaptation-for-CAC-Segmentation# 
 **Score-Supervised Domain Adaptation for Coronary Artery Calcium Segmentation on Non-Contrast CT without Target Masks**
 
 ASCENT adapts a coronary-artery-calcium (CAC) segmentation network to an unlabeled
